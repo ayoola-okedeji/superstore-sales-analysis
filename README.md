@@ -65,10 +65,9 @@ The goal was to turn raw order data from a retail business into clear answers a 
 
 ## Dashboard
 
-*Add your screenshots here.*
 
-![Dashboard page 1](screenshots/dashboard_page1.png)
-![Key Insights page](screenshots/key_insights.png)
+![Dashboard page 1](screenshots/dashboard_page1.png.jpeg)
+![Key Insights page](screenshots/Key_insights.png.jpeg)
 
 ## Files in this repository
 
